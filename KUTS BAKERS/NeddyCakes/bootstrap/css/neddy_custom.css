@@ -1,0 +1,47 @@
+.my_bg_video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+.carousel-inner{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+}
+
+.y{
+    padding-top: 40vh;
+}
+
+.x{
+    color: #ffffff;
+}
+
+.gal_img{
+    width: 100%;
+    height: 100%;
+}
+
+.gal_img:hover{
+    opacity: 0.5;
+}
+
+.gl_body{
+    margin-top: 10vh;
+}
+
+.gl_body_ext{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.aboutpage{
+    background-image: url("../../resources/aboutbg.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
